@@ -3,7 +3,7 @@ import { RouterLink } from 'vue-router';
 </script>
 <template>
   <div>
-    <h1>Hello World, Baby</h1>
-    <RouterLink to="/abc"> Second Page </RouterLink>
+    <h1>Index Page</h1>
+    <RouterLink to="/page2"> Go to Page 2</RouterLink>
   </div>
 </template>
